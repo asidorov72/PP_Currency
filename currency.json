@@ -1,0 +1,43 @@
+{
+    "BGN": {
+        "symbol": "BGN",
+        "name": "Bulgarian Lev",
+        "symbol_native": "лв.",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "BGN",
+        "name_plural": "Bulgarian leva",
+        "value":{
+            "bgn" : "1",
+            "usd" : "0.575",
+            "eur" : "0.511"
+        }
+    },
+    "USD": {
+        "symbol": "$",
+        "name": "US Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "USD",
+        "value":{
+            "usd" : "1",
+            "bgn" : "1.740",
+            "eur" : "0.888"
+        }
+    },
+    "EUR": {
+        "symbol": "€",
+        "name": "Euro",
+        "symbol_native": "€",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "EUR",
+        "name_plural": "euros",
+        "value":{
+            "eur" : "1",
+            "bgn" : "1.959",
+            "usd" : "1.124"
+        }
+    }
+}
